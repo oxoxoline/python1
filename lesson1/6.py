@@ -7,4 +7,4 @@ while first_day < final_day:
     first_day = first_day + 0.1 * first_day
     print(f'{days}-й день :', '%.2f' % first_day)
     if first_day >= final_day:
-        break
+        break#

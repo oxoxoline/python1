@@ -5,4 +5,4 @@ print(c)
 
 user_name = input('Как Вас зовут?: ')
 user_age = input('Сколько Вам лет?: ')
-print(f'Ваше имя: {user_name}, Ваш возраст: {user_age}')
+print(f'Ваше имя: {user_name}, Ваш возраст: {user_age}')#

@@ -14,4 +14,4 @@ if proceeds > costs:
 elif proceeds < costs:
     print('Издержки больше выручки')
 else:
-    print('Выручка равна издержкам')
+    print('Выручка равна издержкам')#
